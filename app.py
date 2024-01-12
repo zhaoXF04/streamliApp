@@ -31,3 +31,5 @@ c = alt.Chart(df2).mark_circle().encode(
 st.write(c)
 
 st.write(np.random.randn(200, 3).shape)
+
+st.write('git push')
