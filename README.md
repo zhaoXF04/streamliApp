@@ -1,1 +1,1 @@
-# streamliApp
+# streamlitApp
